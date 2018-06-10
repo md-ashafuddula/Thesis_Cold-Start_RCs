@@ -1,5 +1,5 @@
 # Thesis_Cold-Start_RCs
-Thesis Field(Col-Start Recommendation System,Machine Learning)My Thesis file .That I tested and worked with
+Thesis Field(Col-Start Recommendation System,Machine Learning)My Thesis file .That I tested and worked with.
 
 Steps:
 1)process Dataset (MovieLens DS, from grouplens org)
@@ -11,3 +11,5 @@ I used matlab 2017 version.
   b) take the no. of cluster make cluster with train data set
   c) Classification (KNN & DT) are used to classify new user or test dataset
   d) rating prediction for test data or new users, from which are seen by same class and rated by more or equal to 3 and at least seen by 5 users.
+
+Main file written in python 3.6 language.
