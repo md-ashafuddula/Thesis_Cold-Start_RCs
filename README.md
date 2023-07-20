@@ -1,5 +1,5 @@
 # Thesis_Cold-Start_RCs
-Thesis Field(Col-Start Recommendation System,Machine Learning)My Thesis file .That I tested and worked with.
+Thesis Field(Cold-Start Recommendation System,Machine Learning)My Thesis file .That I tested and worked with.
 
 Steps:
 1)process Dataset (MovieLens DS, from grouplens org)
